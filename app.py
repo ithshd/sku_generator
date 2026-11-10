@@ -15,11 +15,23 @@ st.write("จัดการสร้างรหัสสินค้าแย�
 st.write("---")
 
 channel_map = {
-    'Eat in': {'code': '01', 'abbr': 'EI'},
-    'Take away': {'code': '02', 'abbr': 'TA'},
+    'Eat In': {'code': '01', 'abbr': 'EI'},
+    'Take Away': {'code': '02', 'abbr': 'TA'},
     'Delivery': {'code': '03', 'abbr': 'DL'},
 	'Grab food': {'code': '04', 'abbr': 'GF'},
-	'Line man': {'code': '05', 'abbr': 'LM'}
+	'Lineman': {'code': '05', 'abbr': 'LM'},
+	'FoodPanda': {'code': '06', 'abbr': 'FP'},
+	'RobinHood': {'code': '07', 'abbr': 'RH'},
+	'GoJek': {'code': '08', 'abbr': 'GJ'},
+	'Down Payment': {'code': '09', 'abbr': 'DE'},
+	'Car Stop': {'code': '10', 'abbr': 'CS'},
+	'OHO': {'code': '11', 'abbr': 'OH'},
+	'Pinto Pum': {'code': '12', 'abbr': 'PP'},
+	'E GET': {'code': '13', 'abbr': 'EG'},
+	'Shopee Food': {'code': '14', 'abbr': 'SF'},
+	'Airasia Food': {'code': '15', 'abbr': 'AF'},
+	'SOOK Shop': {'code': '16', 'abbr': 'AF'},
+	'Product Bundle': {'code': '17', 'abbr': 'PB'}
 }
 
 # ฟังก์ชันตกแต่งหัวข้อตาราง ขยายขนาดคอลัมน์อัตโนมัติ และตรึงแนวแถวบนสุด
