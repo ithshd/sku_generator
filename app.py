@@ -28,6 +28,7 @@ channel_map = {
 	'OHO': {'code': '11', 'abbr': 'OH'},
 	'Shopee Food': {'code': '12', 'abbr': 'SF'},
 	'Pinto Pum': {'code': '13', 'abbr': 'PP'},
+	'E GETS': {'code': '14', 'abbr': 'EG'},
 	'Airasia Food': {'code': '15', 'abbr': 'AF'},
 	'SOOK Shop': {'code': '16', 'abbr': 'SK'},
 	'Product Bundle': {'code': '17', 'abbr': 'PB'}
