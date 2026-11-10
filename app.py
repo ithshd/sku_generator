@@ -15,11 +15,11 @@ st.write("จัดการสร้างรหัสสินค้าแย�
 st.write("---")
 
 channel_map = {
-    'Eat In': {'code': '01', 'abbr': 'EI'},
-    'Take Away': {'code': '02', 'abbr': 'TA'},
+    'Eat in': {'code': '01', 'abbr': 'EI'},
+    'Take away': {'code': '02', 'abbr': 'TA'},
     'Delivery': {'code': '03', 'abbr': 'DL'},
 	'Grab food': {'code': '04', 'abbr': 'GF'},
-	'Lineman': {'code': '05', 'abbr': 'LM'},
+	'Line man': {'code': '05', 'abbr': 'LM'}
 }
 
 # ฟังก์ชันตกแต่งหัวข้อตาราง ขยายขนาดคอลัมน์อัตโนมัติ และตรึงแนวแถวบนสุด
