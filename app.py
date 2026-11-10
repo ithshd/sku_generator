@@ -15,11 +15,11 @@ st.write("จัดการสร้างรหัสสินค้าแย�
 st.write("---")
 
 channel_map = {
-    'Eat in': {'code': '01', 'abbr': 'EI'},
-    'Take away': {'code': '02', 'abbr': 'TA'},
+    'Eat In': {'code': '01', 'abbr': 'EI'},
+    'Take Away': {'code': '02', 'abbr': 'TA'},
     'Delivery': {'code': '03', 'abbr': 'DL'},
-	'Grab food': {'code': '04', 'abbr': 'GF'},
-	'Line man': {'code': '05', 'abbr': 'LM'},
+	'GrabFood': {'code': '04', 'abbr': 'GF'},
+	'Lineman': {'code': '05', 'abbr': 'LM'},
 	'FoodPanda': {'code': '06', 'abbr': 'FP'},
 	'RobinHood': {'code': '07', 'abbr': 'RH'},
 	'GoJek': {'code': '08', 'abbr': 'GJ'},
