@@ -30,7 +30,7 @@ channel_map = {
 	'E GET': {'code': '13', 'abbr': 'EG'},
 	'Shopee Food': {'code': '14', 'abbr': 'SF'},
 	'Airasia Food': {'code': '15', 'abbr': 'AF'},
-	'SOOK Shop': {'code': '16', 'abbr': 'AF'},
+	'SOOK Shop': {'code': '16', 'abbr': 'SK'},
 	'Product Bundle': {'code': '17', 'abbr': 'PB'}
 }
 
