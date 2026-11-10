@@ -106,7 +106,6 @@ with tab1:
             channels_val = st.multiselect(
                 f"ช่องทางการขาย #{idx+1}",
                 options=list(channel_map.keys()),
-                default=item['channels'],
                 key=f"channels_in_{item_id}",
                 label_visibility="collapsed" if idx > 0 else "visible"
             )
