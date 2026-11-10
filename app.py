@@ -20,7 +20,6 @@ channel_map = {
     'Delivery': {'code': '03', 'abbr': 'DL'},
 	'Grab food': {'code': '04', 'abbr': 'GF'},
 	'Line man': {'code': '05', 'abbr': 'LM'},
-	'Line man': {'code': '05', 'abbr': 'LM'},
 	'FoodPanda': {'code': '06', 'abbr': 'FP'}
 }
 
