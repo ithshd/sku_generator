@@ -20,7 +20,10 @@ channel_map = {
     'Delivery': {'code': '03', 'abbr': 'DL'},
 	'Grab food': {'code': '04', 'abbr': 'GF'},
 	'Line man': {'code': '05', 'abbr': 'LM'},
-	'FoodPanda': {'code': '06', 'abbr': 'FP'}
+	'FoodPanda': {'code': '06', 'abbr': 'FP'},
+	'RobinHood': {'code': '07', 'abbr': 'RH'},
+	'GoJek': {'code': '08', 'abbr': 'GJ'},
+	'Down Payment': {'code': '09', 'abbr': 'DE'}
 }
 
 # ฟังก์ชันตกแต่งหัวข้อตาราง ขยายขนาดคอลัมน์อัตโนมัติ และตรึงแนวแถวบนสุด
