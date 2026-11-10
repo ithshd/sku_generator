@@ -30,7 +30,8 @@ channel_map = {
 	'Pinto Pum': {'code': '13', 'abbr': 'PP'},
 	'E GET': {'code': '14', 'abbr': 'EG'},
 	'Airasia Food': {'code': '15', 'abbr': 'AF'},
-	'SOOK Shop': {'code': '16', 'abbr': 'SK'}
+	'SOOK Shop': {'code': '16', 'abbr': 'SK'},
+	'Product Bundle': {'code': '17', 'abbr': 'PB'}
 }
 
 # ฟังก์ชันตกแต่งหัวข้อตาราง ขยายขนาดคอลัมน์อัตโนมัติ และตรึงแนวแถวบนสุด
