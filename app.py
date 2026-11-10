@@ -24,7 +24,13 @@ channel_map = {
 	'RobinHood': {'code': '07', 'abbr': 'RH'},
 	'GoJek': {'code': '08', 'abbr': 'GJ'},
 	'Down Payment': {'code': '09', 'abbr': 'DE'},
-	'Car Stop': {'code': '10', 'abbr': 'CS'}
+	'Car Stop': {'code': '10', 'abbr': 'CS'},
+	'OHO': {'code': '11', 'abbr': 'OH'},
+	'Shopee Food': {'code': '12', 'abbr': 'SF'},
+	'Pinto Pum': {'code': '13', 'abbr': 'PP'},
+	'E GET': {'code': '14', 'abbr': 'EG'},
+	'Airasia Food' :{'code': '15', 'abbr': 'AF'},
+	'SOOK Shop' : {'code': '16', 'abbr': 'SK'}
 }
 
 # ฟังก์ชันตกแต่งหัวข้อตาราง ขยายขนาดคอลัมน์อัตโนมัติ และตรึงแนวแถวบนสุด
