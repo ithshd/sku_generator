@@ -29,8 +29,8 @@ channel_map = {
 	'Shopee Food': {'code': '12', 'abbr': 'SF'},
 	'Pinto Pum': {'code': '13', 'abbr': 'PP'},
 	'E GET': {'code': '14', 'abbr': 'EG'},
-	'Airasia Food' :{'code': '15', 'abbr': 'AF'},
-	'SOOK Shop' : {'code': '16', 'abbr': 'SK'}
+	'Airasia Food': {'code': '15', 'abbr': 'AF'},
+	'SOOK Shop': {'code': '16', 'abbr': 'SK'}
 }
 
 # ฟังก์ชันตกแต่งหัวข้อตาราง ขยายขนาดคอลัมน์อัตโนมัติ และตรึงแนวแถวบนสุด
